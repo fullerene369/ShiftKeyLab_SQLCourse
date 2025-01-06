@@ -17,3 +17,44 @@ All the content that will be covered in the first class is present in the pdf of
 - **ER Diagram/Model** is the middleman between business requirement and the actual implementation of the database schema.
 - **Primary Key** is the unique attribute to identify every row in the table.
 - **Foreign key** is an attribute that links the table values to another table using their primary key
+
+
+
+# 第1周 - ER图/模型介绍
+
+欢迎来到《SQL基础课程》的第1周课程资源库！本周的重点是数据库的基本概念以及根据业务需求构建ER图。
+
+---
+
+## 使用在线资源构建ER模型和图
+
+要练习构建 **ER模型**，您可以选择使用任何喜欢的在线编译器，或者使用以下链接 [https://erdplus.com/](https://erdplus.com/) 在课堂上构建ER模型。
+
+构建 **ER图** 时，可以使用以下链接 [https://drawsql.app/diagrams](https://drawsql.app/diagrams) 在课堂上绘制。
+
+您也可以选择使用纸笔来绘制图表，这样可以根据需要轻松调整。
+
+---
+
+## 第1周的课件
+
+第一节课所涵盖的所有内容都包含在PDF课件中，该文件位于相同的目录中（`Week_1`）。
+
+---
+
+## 第1周主题总结
+
+- **DBMS（数据库管理系统）**  
+  是一种帮助用户创建和维护数据库的特殊软件程序。
+  
+- **ER模型**  
+  包括实体（Entities）、属性（Attributes）和关系（Relationships）。
+
+- **ER图/模型**  
+  是业务需求和数据库模式实际实现之间的桥梁。
+
+- **主键（Primary Key）**  
+  是唯一标识表中每一行的属性。
+
+- **外键（Foreign Key）**  
+  是将表中的值与另一表的主键相连接的属性。
