@@ -20,3 +20,27 @@ The course is 4 weeks long, with one session on Monday of every week of January,
 ## Certificate Eligibility
 - Attend **at least 3 out of the 4 sessions** to receive minimum attendance
 - Score **85 percent or more** in the assessment to pass the course!
+
+# SQL基础课程 - 概览
+
+欢迎来到SQL基础课程仓库！本仓库按周组织，每周聚焦于SQL的不同主题。本课程由Vishwa Patel设计和呈现。
+
+## 课程结构
+本课程为期4周，每周一举行一节课，课程从2025年1月6日开始。每节课将包括SQL主题的理论和实践部分。每节课结束时将进行定期测验，测验内容涵盖上一节课的内容。
+
+## 课程时间表
+- **1月6日** - ER图/模型介绍
+- **1月13日** - DDL命令和SQL基础（CREATE、INSERT、SELECT命令）
+- **1月20日** - 联接和基础聚合函数
+- **1月27日** - 中级SQL查询（子查询、技巧与窍门）
+
+## 评估
+- 第3周结束时将发布评估
+- 截止日期：**2月5日**
+- 评估预计需要1-2小时完成
+- 成绩将在2月21日之前提供
+- 在截止日期之前提交评估才能获得证书资格！
+
+## 证书资格
+- 至少参加**4节课中的3节**才能获得最低出勤要求
+- 在评估中得分**85%或以上**才能通过课程！
